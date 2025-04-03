@@ -106,13 +106,7 @@ Accès aux endpoints protégés : Utilise ce token JWT dans l'en-tête Authoriza
 
 📄 Configuration NLog
 
-Le projet utilise NLog pour gérer les logs de l'application. Les logs sont enregistrés dans un fichier app.log situé dans le répertoire logs.
-
-Pour personnaliser les logs :
-
-Ouvre le fichier nlog.config à la racine du projet.
-
-Modifie la configuration des cibles (console, fichier, etc.) selon tes préférences.
+J'ai utilisé les logs pour informer l'utilisateur, ainsi que pour les avertissements et même pour les erreurs de manière personnalisée.
 
 ⚙️ Technologies utilisées
 
