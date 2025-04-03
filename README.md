@@ -22,7 +22,7 @@ Visual Studio ou Visual Studio Code pour éditer le code
 
 Clone ce dépôt sur ton ordinateur avec la commande suivante :
 
-git clone https://github.com/ton-utilisateur/TP2_.Net.git
+git clone https://github.com/Kaoutarlaouaj/TP2_.Net.git
 
 2. Ouvrir la solution dans Visual Studio
 
