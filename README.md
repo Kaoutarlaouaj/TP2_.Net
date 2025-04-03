@@ -40,7 +40,6 @@ Une fois les dépendances installées, lance l'application avec la commande :
 
 dotnet run
 
-Cela démarrera l'application sur https://localhost:5001.
 
 🔐 Fonctionnalités
 
