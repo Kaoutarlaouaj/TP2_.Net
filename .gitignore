@@ -1,0 +1,25 @@
+# Fichiers binaires et builds
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# User-specific files
+.vs/
+.idea/
+*.user
+*.suo
+*.csproj.user
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
+
+# Configuration
+appsettings*.json
+secrets.json
+
+# Dépendances NuGet
+*.nupkg
+packages/
