@@ -14,10 +14,12 @@ Git
 Visual Studio ou Visual Studio Code pour éditer le code
 
 🚶‍♂️ Étapes d'Installation
+
 1. Cloner le projet
 Clone ce dépôt sur ton ordinateur avec la commande suivante :
 
 git clone https://github.com/ton-utilisateur/TP2_.Net.git
+
 2. Ouvrir la solution dans Visual Studio
 Ouvre le fichier Authentification.JWT.sln dans Visual Studio ou Visual Studio Code. Cela va charger tous les projets sous la solution.
 
@@ -25,6 +27,7 @@ Ouvre le fichier Authentification.JWT.sln dans Visual Studio ou Visual Studio Co
 Il est nécessaire de restaurer les packages NuGet nécessaires. Utilise la commande suivante pour le faire :
 
 dotnet restore
+
 4. Lancer l'application
 Une fois les dépendances installées, lance l'application avec la commande :
 
@@ -41,6 +44,7 @@ Connexion des utilisateurs : Authentifie les utilisateurs avec leur nom d'utilis
 Endpoints protégés : Accède à des ressources protégées en incluant le token JWT dans les en-têtes de requête.
 
 📚 Endpoints API
+
 1. Inscription (Register)
 Méthode : POST
 
