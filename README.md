@@ -110,7 +110,7 @@ J'ai utilisé les logs pour informer l'utilisateur, ainsi que pour les avertisse
 
 ⚙️ Technologies utilisées
 
-.NET 6+
+.NET 9
 
 JWT (JSON Web Token) pour l'authentification
 
